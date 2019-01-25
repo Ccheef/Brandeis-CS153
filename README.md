@@ -1,3 +1,7 @@
+Project Name: NoteCatcher
+Group Members: Christina Feng, Shuangchen Shen, Qifu Yin, Jiaqi Li
+Date: November 2016
+
 Important Note: This application only works well for API under 23 for the use of AudioRecord.
 
 Introduction:
